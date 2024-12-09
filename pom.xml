@@ -11,6 +11,7 @@
     <groupId>com.klu.jfsdproject</groupId>
     <artifactId>ARTGALLERY</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+   <packaging>jar</packaging>
     <name>ARTGALLERY</name>
     <description>Demo project for Spring Boot</description>
     <properties>
@@ -71,6 +72,12 @@
             <artifactId>mysql-connector-j</artifactId>
             <scope>runtime</scope>
         </dependency>
+        <dependency>
+    <groupId>org.springframework.boot</groupId>
+    <artifactId>spring-boot-starter-data-jpa</artifactId>
+</dependency>
+
+
 
         <!-- Tomcat-related dependencies -->
         <dependency>
