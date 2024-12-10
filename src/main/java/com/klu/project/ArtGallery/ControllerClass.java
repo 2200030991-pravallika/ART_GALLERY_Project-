@@ -24,7 +24,7 @@ public class ControllerClass
     private UserInterface userRepository;
 
     
-    @GetMapping("/home")
+    @GetMapping("/")
     public String showHomePage() {
         return "home"; 
     }
