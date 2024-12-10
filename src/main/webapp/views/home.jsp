@@ -364,10 +364,7 @@
             document.getElementById("loginModal").style.display = "none";
         }
 
-        // Auto redirect after 20 seconds to Register Page
-        setTimeout(function() {
-            window.location.href = "register";
-        }, 10000);
+       
     </script>
 
 </body>
