@@ -177,7 +177,7 @@
         <div class="action-buttons">
             <button onclick="window.location.href='/add_arts'">Add Art</button>
             <button onclick="window.location.href='/view_users'">View Users</button>
-            <button class="logout-button" onclick="window.location.href='/home'">Logout</button>
+            <button class="logout-button" onclick="window.location.href='/'">Logout</button>
         </div>
     </div>
 

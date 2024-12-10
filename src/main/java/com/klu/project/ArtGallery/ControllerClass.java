@@ -352,5 +352,10 @@ public class ControllerClass
     }
     
 
+    @RequestMapping("/payment")
+    public String paymentPage() {
+        return "payment"; 
+    }
+
 
 }

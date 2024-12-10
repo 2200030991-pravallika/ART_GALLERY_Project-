@@ -143,7 +143,7 @@
             <h3>Hello, user!</h3>
             <a href="whishlist"><i class="fas fa-heart"></i></a>
             <a href="cart"><i class="fas fa-shopping-cart"></i></a>
-            <a href="home">Logout</a>
+            <a href="/">Logout</a>
         </div>
     </div>
 

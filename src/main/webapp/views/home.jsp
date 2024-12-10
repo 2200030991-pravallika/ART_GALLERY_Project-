@@ -238,7 +238,7 @@
             <a href="home">
                 <img src="images/logo.jpg" alt="Art Gallery Logo" class="logo">
             </a>
-            <a href="home">Home</a>
+            <a href="/">Home</a>
             <a href="featured">Featured</a>
             <a href="artgallery">Art Gallery</a>
             <a href="artists">Artists</a>
